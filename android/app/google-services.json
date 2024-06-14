@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1008767757913",
+    "project_id": "fire-crud-11",
+    "storage_bucket": "fire-crud-11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008767757913:android:9bdeefe77f165b25310b48",
+        "android_client_info": {
+          "package_name": "com.nehal.newfireproject.newfireproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008767757913-g6h139lo2dk04m3tsqmpo0kucokg9cgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nehal.newfireproject.newfireproject",
+            "certificate_hash": "5e680ce16b79cd0d075d84c1f2973ed72334cf46"
+          }
+        },
+        {
+          "client_id": "1008767757913-3cpqajb0lb56vp4vil48t0s48ondom05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8nXetqeRx7ZvBtwPzEql6x7PdL4552DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008767757913-3cpqajb0lb56vp4vil48t0s48ondom05.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008767757913-dko6777al6gn59jv37sb9a4sc1dukl9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nehal.newfireproject.newfireproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
